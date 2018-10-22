@@ -6,6 +6,7 @@ git_source(:github) do |repo_name|
 end
 
 gem 'jwt'
+#gem 'rails_db'
 
 gem 'simple_command'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
